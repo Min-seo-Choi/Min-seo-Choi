@@ -1,7 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&&&color=gradient&height=200&section=header&text=Hello!&fontSize=90)
+
+### 📚 blog
+<a href="https://minseo-develop.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=appveyor&logo=dev.to&logoColor=white"></a>
+<br><br>
+### 💬 Connect
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mschoi0814@gmail.com)](mailto:minseochoi0308@gmail.com)
+<br><br>
+
+
 
 <!--
-**Min-seo-Choi/Min-seo-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MinseoChoi03/MinseoChoi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
